@@ -1,0 +1,8 @@
+.close {
+    position: absolute;
+
+    &:hover,
+    &:focus {
+        color: red;
+    }
+}
